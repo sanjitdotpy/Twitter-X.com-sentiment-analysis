@@ -13,9 +13,7 @@ Commands to Run :
 
 This project implements a sentiment analysis model using Natural Language Processing (NLP) and machine learning techniques. It analyzes text data, such as tweets, and predicts the sentiment as one of several categories (e.g., happiness, sadness, love, hate, worry).
 
-Creating a comprehensive README file is crucial for helping users understand, use, and contribute to your project. Below is a template for a detailed README file for your sentiment analysis project:
-
-##Project Structure
+#Project Structure
 
 The project structure is organized as follows:
 

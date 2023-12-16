@@ -2,7 +2,7 @@
 (check the master)
 Commands to Run :
 
--in jupyter labs in terminal cd to the patih to the file
+-in jupyter labs in terminal cd to the path to the file
 
 -python3 manage.py migrate
 

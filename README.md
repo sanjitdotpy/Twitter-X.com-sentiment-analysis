@@ -9,11 +9,6 @@ Commands to Run :
 -python3 manage.py runserver
 
 
-Overview
-
-This project implements a sentiment analysis model using Natural Language Processing (NLP) and machine learning techniques. It analyzes text data, such as tweets, and predicts the sentiment as one of several categories (e.g., happiness, sadness, love, hate, worry).
-
-
 Sentiment Analysis Project
 
 Overview

@@ -1,9 +1,12 @@
 #Sentiment Analysis Project**
 
 Commands to Run :
+
 in jupyter labs in terminal cd to the patih to the file
+
 then ,
 python3 manage.py migrate
+
 python3 manage.py runserver
 
 
